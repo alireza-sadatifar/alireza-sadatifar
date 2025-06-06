@@ -5,15 +5,4 @@ git init
 git add README.md 
 git commit -m "first commit" 
 git branch -M main 
-git remote add origin https://github.com/alireza-sadatifar/alireza-saadaatifar-.git
- git push -u origin main![b441c491-0447-4991-a7c4-a75e00381aee-1_all_1](https://github.com/user-attachments/assets/58be33b8-ae51-497e-8857-a4c2a1f36de7)
-’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-alireza-sadatifar/alireza-sadatifar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+git remote 
