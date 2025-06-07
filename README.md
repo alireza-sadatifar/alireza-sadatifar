@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alireza-sadatifar
-- git@github.com:alireza-sadatifar/alireza-saadaatifar-.git👀 I’m interested in ...
-- 🌱 Iecho "# alireza-saadaatifar-" >> README.md 
+- 👋 Hi, Itab’m @alireza-sadatifar
+- git@github.com:alireza-sadatifar/ashiftlireza-saadaatifar-.git👀 I’m interestesced in ...
+- 🌱then Iecho "# alireza-saadaatifar-" >> README.md 
 git init 
 git add README.md 
 git commit -m "first commit" 
